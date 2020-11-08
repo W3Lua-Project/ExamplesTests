@@ -1,0 +1,14 @@
+mkdir modules
+cd modules
+
+ghrcl wc3lua/oop-new
+cd oop-new
+soi
+
+ghrcl wc3lua/fp-japi
+cd fp-japi
+soi
+
+ghrcl wc3lua/ceres-example
+cd ceres-example
+soi

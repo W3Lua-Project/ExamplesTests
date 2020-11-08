@@ -1,1 +1,1 @@
--- require 'modules.oop-new.index'
+require 'modules.oop-new.index'
