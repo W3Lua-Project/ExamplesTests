@@ -1,4 +1,4 @@
-mkcd modules
+mkcd examples-tests/modules
 
 req wc3lua oop-new
 req wc3lua fp-japi
